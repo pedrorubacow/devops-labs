@@ -11,10 +11,10 @@ Este arquivo acompanha minha evolução nas etapas do projeto.
 
 ## 🚧 Em andamento
 
-- [ ] Etapa 2: Git + Versionamento
-  - [ ] comandos-git.md
-  - [ ] fluxo-gitflow.md
-  - [ ] mini-projeto-git
+- [x] Etapa 2: Git + Versionamento
+  - [x] comandos-git.md
+  - [x] fluxo-gitflow.md
+  - [x] mini-projeto-git
 
 ## 📅 Planejado
 
